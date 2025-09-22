@@ -167,14 +167,8 @@ We welcome contributions! Please follow these steps:
 - The React and Vite communities
 - Open source libraries and tools used in this project
 
-## 📬 Contact
-
-- Website: [verifai.vercel.app](https://verifai-by-house-stark.vercel.app/)
-- Demo: [Demo.Video](https://drive.google.com/file/d/14XwGXCwGZjVRcW3kfR0l4hYdfHrxs7XI/view)
-- Email: panduthegang@gmail.com, saurabhpatel4589@gmail.com
-
----
 
 <div align="center">
-  <p>Built with ❤️ by House Stark</p>
+
+
 </div>
